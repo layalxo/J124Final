@@ -9,3 +9,6 @@ The following are five questions and step-by-step answers based on the data sets
 **Step-by-step answer:**
 1. Sort column D in the "degrees-that-pay-back" data sheet from Z->A to find the highest percent change of starting to mid-career (median) salary, like so: <br>
 !['Highest Percent Change','A Google Sheet representing the undergraduate majors in column A and the percent change of their starting to mid-career (median) salary in column D. Column D has been filtered and sorted from highest to lowest in order to illustrate the highest percent change.'](/Screenshot-Highest-Percent-Change.jpg)
+* **As shown, math and philosophy have the highest percent change of starting to mid-career (median) salary with a 103.5% change.**
+2. Sort column D in the "degrees-that-pay-back" data sheet from A->Z to find the lowest percent change of starting to mid-career (median) salary, like so: <br>
+!['Lowest Percent Change','A Google Sheet representing the undergraduate majors in column A and the percent change of their starting to mid-career (median) salary in column D. Column D has been filtered and sorted from lowest to highest in order to illustrate the lowest percent change.'](/Screenshot
