@@ -7,4 +7,8 @@
 5. I looked through the sheets to find anything that stood out to me.
 6. The following are five questions and step-by-step answers I came up with based on the data sets:
 
-**Question 1:**
+**Question 1: _Which undergraduate major has the highest percent change from starting median salary to mid-career median salary, and which has the lowest?_** <br>
+
+**Step-by-step answer:**
+1. Bold all of the boxes in the first row in order to recognize them as headers.
+2. Freeze the first row in order to understand what the boxes represent when scrolling through the data set.
