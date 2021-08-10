@@ -26,4 +26,8 @@
 5. Title I1 "Percent change from mid-career 10th to 90th percentile" and bold it. The data set should appear as so:
 !['Percent change from mid-career 10th to 90th percentile','A Google Sheet representing the mid-career 10th percentile in column E and the mid-career 90th percentile in column H. A filter has been applied to remove all of the "N/A"s in column E. The box in column I and row 2 was highlighted and "=(H2-E2)/E2" was inserted as a formula and then those values were turned into percentages to receive the percent change. The formula was applied to the rest of the boxes in column I. The values and formula are shown in the picture.'](Screenshot-percentchange-10-90.jpg)
 5. Sort column I from Z->A to find the highest percent change from mid-career 10th to 90th percentile, like so: <br>
-!['Highest Percent Change from Mid-Career 10th to 90th Percentile','
+!['Highest Percent Change from Mid-Career 10th to 90th Percentile','...'](Screenshot-highest-10-90.jpg)
+* **As shown, Yale University, State University of New York (SUNY) at Fredonia, and Harvard University have the highest percent change from mid-career 10th to 90th percentile, with 462.07%, 451.83%, and 425.55%, respectively.** <br>
+<br>
+
+**Question 3:**
