@@ -2,7 +2,7 @@
 ## By Layal Younan
 * Download the “Where it Pays to Attend College” data sheets as .csv files, upload it to Google Drive, and open it with Google Sheets. <br>
 
-The following are five questions and step-by-step answers based on the data sets: <br>
+*The following are five questions and step-by-step answers based on the data sets:* <br>
 <br>
 
 **Question 1: _Which undergraduate majors has the highest percent change of starting to mid-career (median) salary, and which has the lowest? Include the percent change amount._** <br>
