@@ -20,8 +20,10 @@
 
 **Step-by-step answer:**
 1. Create a filter on the salaries-by-region data set. On column E filter out "N/A."
-2. On box I2, type in "=((H2-E2)/E2)x100"
-3. Double click the bottom right corner of box I2 so the rest of the boxes in column I get a value too.
-4. Title I1 "Percent change from mid-career 10th to 90th percentile" and bold it. The data set should appear as so:
-!['Percent change from mid-career 10th to 90th percentile','A Google Sheet representing the mid-career 10th percentile in column E and the mid-career 90th percentile in column H. A filter has been applied to remove all of the "N/A"s in column E. The box in column I and row 2 was highlighted and "=((H2-E2)/E2)x100" was inserted as a formula to receive the percent change. The formula was applied to the rest of the boxes in column I. The values and formula are shown in the picture.'](Screenshot-percent-change-10-90)
-5. 
+2. On box I2, type in "=(H2-E2)/E2."
+3. Click on the "%" symbol to turn the value into a percent.
+4. Double click the bottom right corner of box I2 so the rest of the boxes in column I get a percent too.
+5. Title I1 "Percent change from mid-career 10th to 90th percentile" and bold it. The data set should appear as so:
+!['Percent change from mid-career 10th to 90th percentile','A Google Sheet representing the mid-career 10th percentile in column E and the mid-career 90th percentile in column H. A filter has been applied to remove all of the "N/A"s in column E. The box in column I and row 2 was highlighted and "=(H2-E2)/E2" was inserted as a formula and then those values were turned into percentages to receive the percent change. The formula was applied to the rest of the boxes in column I. The values and formula are shown in the picture.'](Screenshot-percentchange-10-90.jpg)
+5. Sort column I from Z->A to find the highest percent change from mid-career 10th to 90th percentile, like so: <br>
+!['Highest Percent Change from Mid-Career 10th to 90th Percentile','
