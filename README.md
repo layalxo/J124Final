@@ -1,2 +1,3 @@
-# J124Final
-Layal Younan's data analysis &amp; visualization of where it pays to attend college
+# J124 Final Project: Data Analysis & Visualization of Where it Pays to Attend College
+## By Layal Younan
+
