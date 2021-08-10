@@ -7,5 +7,5 @@ The following are five questions and step-by-step answers based on the data sets
 **Question 1: _Which undergraduate majors has the highest percent change of starting to mid-career (median) salary, and which has the lowest? Include the percent change amount._** <br>
 
 **Step-by-step answer:**
-1. Create a filter on column D on the "degrees-that-pay-back" data sheet and sort from Z->A to find the highest percent change of starting to mid-career (median) salary.
-2. 
+1. Create a filter on column D on the "degrees-that-pay-back" data sheet and sort from Z->A to find the highest percent change of starting to mid-career (median) salary like so:
+!['Highest Percent Change','A Google Sheet representing the undergraduate majors in column A and the percent change of their starting to mid-career (median) salary in column D. Column D has been filtered and sorted from highest to lowest in order to illustrate the highest percent change.'][/Screenshot of undergraduate major with highest percent change of starting to mid-career median salary.jpg]
