@@ -2,7 +2,8 @@
 ## By Layal Younan
 * Download the “Where it Pays to Attend College” data sheets as .csv files, upload it to Google Drive, and open it with Google Sheets. <br>
 
-The following are five questions and step-by-step answers based on the data sets:
+The following are five questions and step-by-step answers based on the data sets: <br>
+<br>
 
 **Question 1: _Which undergraduate majors has the highest percent change of starting to mid-career (median) salary, and which has the lowest? Include the percent change amount._** <br>
 
@@ -11,4 +12,8 @@ The following are five questions and step-by-step answers based on the data sets
 !['Highest Percent Change','A Google Sheet representing the undergraduate majors in column A and the percent change of their starting to mid-career (median) salary in column D. Column D has been filtered and sorted from highest to lowest in order to illustrate the highest percent change.'](/Screenshot-Highest-Percent-Change.jpg)
 * **As shown, math and philosophy have the highest percent change of starting to mid-career (median) salary with a 103.5% change.**
 2. Sort column D in the "degrees-that-pay-back" data sheet from A->Z to find the lowest percent change of starting to mid-career (median) salary, like so: <br>
-!['Lowest Percent Change','A Google Sheet representing the undergraduate majors in column A and the percent change of their starting to mid-career (median) salary in column D. Column D has been filtered and sorted from lowest to highest in order to illustrate the lowest percent change.'](/Screenshot
+!['Lowest Percent Change','A Google Sheet representing the undergraduate majors in column A and the percent change of their starting to mid-career (median) salary in column D. Column D has been filtered and sorted from lowest to highest in order to illustrate the lowest percent change.'](/Screenshot-lowest-percent-change.jpg)
+* **As shown, physician assistant has the lowest percent change of starting to mid-career (median) salary with a 23.4% change.** <br>
+<br>
+
+**Question 2:**
