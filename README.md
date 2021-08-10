@@ -1,6 +1,6 @@
 # J124 Final Project: Data Analysis & Visualization of Where it Pays to Attend College
 ## By Layal Younan
-1. Download the “Where it Pays to Attend College” data sheets as .csv files, upload it to Google Drive, and open it with Google Sheets. <br>
+* Download the “Where it Pays to Attend College” data sheets as .csv files, upload it to Google Drive, and open it with Google Sheets. <br>
 
 The following are five questions and step-by-step answers based on the data sets:
 
