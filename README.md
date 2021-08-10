@@ -23,4 +23,5 @@
 2. On box I2, type in "=((H2-E2)/E2)x100"
 3. Double click the bottom right corner of box I2 so the rest of the boxes in column I get a value too.
 4. Title I1 "Percent change from mid-career 10th to 90th percentile" and bold it. The data set should appear as so:
-!['Percent change from mid-career 10th to 90th percentile','
+!['Percent change from mid-career 10th to 90th percentile','A Google Sheet representing the mid-career 10th percentile in column E and the mid-career 90th percentile in column H. A filter has been applied to remove all of the "N/A"s in column E. The box in column I and row 2 was highlighted and "=((H2-E2)/E2)x100" was inserted as a formula to receive the percent change. The formula was applied to the rest of the boxes in column I. The values and formula are shown in the picture.'](Screenshot-percent-change-10-90)
+5. 
