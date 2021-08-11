@@ -65,10 +65,12 @@
 
 **Step-by-step answer:**
 1. On the "degrees-that-pay-back" data set, sort the "Starting Median Salary" column from Z->A (or greatest to smallest) to find the highest starting median salary, like so:
-!['name','alttext'](Screenshot-starting-salary.jpg)
-* **Ass shown, physician assistant has the highest starting median salary with $74,300.**
+!['Highest Starting Median Salary','A Google Sheet representing the starting median salaries in the "Starting Median Salary" column and the undergraduate majors associated with them in the "Undergraduate Major" column. The "Starting Median Salary" column was sorted from greatest to lowest to find the highest starting median salary. The first amount, or the greatest, that popped up is $74,000 tied to physician assistant. The rest of the majors and amounts are listed as well in descending order.'](Screenshot-starting-salary.jpg)
+* **As shown, physician assistant has the highest starting median salary, with $74,300.**
 2. Unsort the column now.
 3. Sort the "Mid-Career Median Salary" column from Z->A (or greatest to smallest) to find the highest mid-career median salary, like so:
-!['name','alt'](Screenshot-midcareer-salary.jpg)
+!['Highest Mid-Career Median Salary','A Google Sheet representing the mid-career median salaries in the "Mid-Career Median Salary" column and the undergraduate majors associated with them in the "Undergraduate Major" column. The "Mid-Career Median Salary" column was sorted from greatest to lowest to find the highest starting median salary. The first amount, or the greatest, that popped up is $107,000 tied to chemical engineering. The rest of the majors and amounts are listed as well in descending order.'](Screenshot-midcareer-salary.jpg)
+* **As shown, chemical engineering has the highest mid-career median salary, with $107,000.**
+<br>
 
 ### Story Summary and Sourcing
