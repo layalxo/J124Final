@@ -12,7 +12,8 @@
 1. Sort the column "Percent change from Starting to Mid-Career Salary" in the "degrees-that-pay-back" data sheet from Z->A (or greatest to smallest) to find the highest percent change from starting to mid-career (median) salary, like so: <br>
 !['Highest Percent Change from Starting to Mid-Career Salary','A Google Sheet representing the undergraduate majors in the first column and the percent change of their starting to mid-career (median) salary in the fourth column. The column "Percent change from mid-career 10th to 90th percentile" has been filtered and sorted from highest to lowest in order to illustrate the highest percent change.'](/Screenshot-Highest-Percent-Change.jpg)
 * **As shown, math and philosophy have the highest percent change from starting to mid-career (median) salary with a 103.5% change.**
-2. Sort the column "Percent change from Starting to Mid-Career Salary" in the "degrees-that-pay-back" data sheet from A->Z (or smallest to greatest) to find the lowest percent change of starting to mid-career (median) salary, like so: <br>
+2. Unsort the column now.
+3. Sort the column "Percent change from Starting to Mid-Career Salary" in the "degrees-that-pay-back" data sheet from A->Z (or smallest to greatest) to find the lowest percent change of starting to mid-career (median) salary, like so: <br>
 !['Lowest Percent Change from Starting to Mid-Career Salary','A Google Sheet representing the undergraduate majors in the first column and the percent change from their starting to mid-career (median) salary in the fourth column. The column "Percent change from mid-career 10th to 90th percentile" has been filtered and sorted from lowest to highest in order to illustrate the lowest percent change.'](/Screenshot-lowest-percent-change.jpg)
 * **As shown, physician assistant has the lowest percent change from starting to mid-career (median) salary with a 23.4% change.** <br>
 <br>
@@ -60,10 +61,14 @@
 * **As shown, California has 9 schools, Midwestern has 3 schools, Northeastern has 26 schools, Southern has 8 schools, and Western has 1 school with a mid-career median salary greater than or equal to $100,000.** <br>
 <br>
 
-**Question 6: _Which undergraduate major has the highest starting median salary? Which has the highest mid-career median salary?_** <br>
+**Question 6: _Which undergraduate major has the highest starting median salary? Which has the highest mid-career median salary? Include the amount._** <br>
 
 **Step-by-step answer:**
 1. On the "degrees-that-pay-back" data set, sort the "Starting Median Salary" column from Z->A (or greatest to smallest) to find the highest starting median salary, like so:
-
+!['name','alttext'](Screenshot-starting-salary.jpg)
+* **Ass shown, physician assistant has the highest starting median salary with $74,300.**
+2. Unsort the column now.
+3. Sort the "Mid-Career Median Salary" column from Z->A (or greatest to smallest) to find the highest mid-career median salary, like so:
+!['name','alt'](
 
 ### Story Summary and Sourcing
