@@ -69,6 +69,6 @@
 * **Ass shown, physician assistant has the highest starting median salary with $74,300.**
 2. Unsort the column now.
 3. Sort the "Mid-Career Median Salary" column from Z->A (or greatest to smallest) to find the highest mid-career median salary, like so:
-!['name','alt'](
+!['name','alt'](Screenshot-midcareer-salary.jpg)
 
 ### Story Summary and Sourcing
