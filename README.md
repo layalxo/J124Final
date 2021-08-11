@@ -50,7 +50,12 @@
 * **As shown, the average starting median salary is $51,032.14 for California, $44,225.35 for Midwestern, $48,496.00 for Northeastern, $44,521.52 for Southern, and $44,414.29 for Western.** <br>
 <br>
 
-**Question 5:** <br>
+**Question 5: _How many schools in each region have a mid-career median salary greater than or equal to $100,000?_** <br>
 
 **Step-by-step answer:**
-1. idk
+1. On the "salaries-by-region" data set, create a pivot table.
+2. On the pivot table, set the row to "Region" and add the count of "School Name" as the value. Set a filter for "Mid-Career Median Salary" to be values greater than or equal to $100,000. 
+!['Pivot Table of Number of Schools with Mid-Career Median Salaries Greater Than or Equal to $100,000 Based on Region','A pivot table on Google Sheets with the rows being names of five different regions and the column being the number of schools with mid-career median salaries greater than or equal to $100,000. The values are depicted as amount in dollars.'](Screenshot-pivot-table-region.jpg)
+* **As shown, California has 9 schools, Midwestern has 3 schools, Northeastern has 26 schools, Southern has 8 schools, and Western has 1 school with a mid-career median salary greater than or equal to $100,000.** <br>
+<br>
+
