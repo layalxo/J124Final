@@ -60,4 +60,10 @@
 * **As shown, California has 9 schools, Midwestern has 3 schools, Northeastern has 26 schools, Southern has 8 schools, and Western has 1 school with a mid-career median salary greater than or equal to $100,000.** <br>
 <br>
 
+**Question 6: _Which undergraduate major has the highest starting median salary? Which has the highest mid-career median salary?_** <br>
+
+**Step-by-step answer:**
+1. On the "degrees-that-pay-back" data set, sort the "Starting Median Salary" column from Z->A (or greatest to smallest) to find the highest starting median salary, like so:
+
+
 ### Story Summary and Sourcing
