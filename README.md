@@ -41,7 +41,8 @@
 * **As shown, music, philosophy, art history, drama, and marketing have the highest percent change from mid-career 10th to 90th percentile, with 401.87%, 373.24%, 334.03%, 316.89%, and 315.68%, respectively.** <br>
 <br>
 
-**Question 4:** <br>
+**Question 4: _What are the average starting median salaries for each region?_** <br>
 
 **Step-by-step answer:**
-1. ...
+1. On the "salaries-by-region" data set, create a pivot table.
+2. On the pivot table, set the row to "Region" and add the average of "Starting Median Salary" as the value.
