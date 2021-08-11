@@ -45,4 +45,5 @@
 
 **Step-by-step answer:**
 1. On the "salaries-by-region" data set, create a pivot table.
-2. On the pivot table, set the row to "Region" and add the average of "Starting Median Salary" as the value.
+2. On the pivot table, set the row to "Region" and add the average of "Starting Median Salary" as the value. It should appear as so:
+!['Pivot Table of Average Starting Median Salaries Based on Region','alt text'](Screenshot-pivot-table-region-avg-starting.jpg)
